@@ -1,0 +1,25 @@
+# Distributed Task Processing System - Requirements
+
+# This project uses only Python standard library modules
+# No external dependencies required!
+
+# Tested with:
+# - Python 3.7+
+# - Python 3.8+
+# - Python 3.9+
+# - Python 3.10+
+# - Python 3.11+
+
+# Standard library modules used:
+# - socket (TCP/IP networking)
+# - threading (concurrent connections)
+# - json (message serialization)
+# - queue (thread-safe task queue)
+# - uuid (unique IDs)
+# - time (timestamps and delays)
+# - collections (defaultdict)
+# - enum (task types)
+# - argparse (command-line arguments)
+
+# Installation:
+# Just clone/download the files - no pip install needed!
